@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PassGen</string>
+    <string name="copy_button">Copy</string>
+    <string name="generate_new_password">Generate new password</string>
+    <string name="password">password</string>
+    <string name="open_nav">Open navigation bar</string>
+    <string name="close_nav">Close navigation bar</string>
+    <string name="saved_passwords">Saved passwords</string>
+    <string name="password_generator">Password generator</string>
+    <string name="save">Save</string>
+</resources>
